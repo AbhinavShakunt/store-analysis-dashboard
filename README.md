@@ -1,6 +1,5 @@
 # store-analysis-dashboard   
 
-# Power BI Store Analysis Project
 
 ![Power BI Dashboard Screenshot](![Web capture_6-9-2023_231333_](https://github.com/AbhinavShakunt/store-analysis-dashboard/assets/89520262/8f0bf296-7fa4-468e-b834-7aafbb5a3f5a)
 
